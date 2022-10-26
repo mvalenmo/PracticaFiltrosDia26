@@ -1,0 +1,6 @@
+package com.ntt.data.bootcamp.BootcampGateway;
+
+@Config
+public class ConfigGateway {
+
+}

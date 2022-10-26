@@ -1,0 +1,17 @@
+package com.ntt.data.bootcamp.BootcampGateway;
+
+import org.springframework.cloud.gateway.filter.GlobalFilter;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ConfigGateway {
+
+
+
+
+
+	public GlobalFilter filtro1() {
+		return null;
+		
+	}
+}
